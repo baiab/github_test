@@ -4,14 +4,6 @@
 // Test fixture for FuncInProduct
 class FuncInProductTest : public ::testing::Test {
 protected:
-    // If you want to perform setup and cleanup for each test
-    virtual void SetUp() {
-        // Code to run before each test
-    }
-
-    virtual void TearDown() {
-        // Code to run after each test
-    }
 };
 
 // Test case(s) for FuncInProduct
